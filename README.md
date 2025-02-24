@@ -11,4 +11,6 @@ The dataset consists of segmented images from Mars terrain. Each image is paired
 - 3: Sand
 - 4: Big Rock
 
+![mars_terrain](https://github.com/user-attachments/assets/efa62d04-00d9-442c-a21f-b433fc57cbba)
+
 ⚠️ Please note that for this challenge all pretrained models were forbidden. Neural networks must be trained from scratch, without relying on existing trained architectures.
